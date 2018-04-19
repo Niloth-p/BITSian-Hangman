@@ -1,0 +1,57 @@
+1,Alchemy,Groups
+2,Axiom, Groups
+3,Panacea,Groups
+4,Synapsis,Groups
+5,Phoenix,Groups
+6,Perpetual Hackers of Electronix,Groups
+7,Chemical,Misc
+8,Spectrum,Groups
+9,Vulcan,Groups
+10,Departament of Photography,Groups
+11,civil,Misc
+12,student welfare division,Groups
+13,International programming and collaboration division,Groups
+14,Placement division,Groups
+15,bru,Campus
+16,yummpys,Campus
+17,bits n bytes,Campus
+18,alankrita,Campus
+19,philosopher's stone,Campus
+20,krishna bhawan,Campus
+21,vyas bhawan,Campus
+22,shankar bhawan,Campus
+23,malviya bhawan,Campus
+24,meera bhawan,Campus
+25,budh bhawan,Campus
+26,valmiki bhawan,Campus
+27,ram bhawan,Campus
+28,ram bhawan,Campus
+29,gandhi bhawan,Campus
+30,gautam bhawan,Campus
+31,infinity pool,Campus
+32,road not taken,Campus
+33,lover's lane,Campus
+34,shamirpet,Campus
+35,chai coffee company,Campus
+36,pi road,Campus
+37,Atmos,Fests and events
+38,assimilation of technically motivated souls,Fests and events
+39,Pearl,Fests and events
+40,arena,Fests and events
+41,terpsichore,Fests and events
+42,till deaf do we part,Fests and events
+43,soul'o,Fests and events
+44,crimson curtain,Fests and events
+45,verba maximus,Fests and events
+46,catharsis,Fests and events
+47,BITSMUN,Fests and events
+48,Shangri'la,Fests and events	
+49,renaissance,Fests and events
+50,ignite,Fests and events
+51,sanskriti,Fests and events
+52,V S rao,faculties
+53,G sundar,faculties
+54,Barsha Mitra,faculties
+55,Object Oriented Programming,courses
+
+ 
